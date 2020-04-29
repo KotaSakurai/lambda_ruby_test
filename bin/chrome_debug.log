@@ -1,0 +1,8 @@
+[0429/191731.570351:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[0429/191731.720126:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[0429/191731.822753:ERROR:instance.cc(49)] Unable to locate service manifest for metrics
+[0429/191731.823142:ERROR:service_manager.cc(890)] Failed to resolve service name: metrics
+[0429/191731.823426:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+[0429/191731.857916:ERROR:nss_util.cc(83)] Failed to create /home/sbx_user1051/.pki/nssdb directory.
+[0429/191732.007628:ERROR:gl_implementation.cc(292)] Failed to load /var/task/bin/libosmesa.so: /var/task/bin/libosmesa.so: cannot open shared object file: No such file or directory
+[0429/191732.047506:WARNING:histograms.cc(40)] Started multiple compositor clients (Browser, Renderer) in one process. Some metrics will be disabled.
